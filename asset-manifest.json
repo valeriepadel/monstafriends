@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/monstafriends/static/css/main.d118e313.chunk.css",
+    "main.js": "/monstafriends/static/js/main.0c589674.chunk.js",
+    "main.js.map": "/monstafriends/static/js/main.0c589674.chunk.js.map",
+    "runtime-main.js": "/monstafriends/static/js/runtime-main.be5fe38b.js",
+    "runtime-main.js.map": "/monstafriends/static/js/runtime-main.be5fe38b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/monstafriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.209d094b.chunk.js": "/monstafriends/static/js/2.209d094b.chunk.js",
+    "static/js/2.209d094b.chunk.js.map": "/monstafriends/static/js/2.209d094b.chunk.js.map",
+    "index.html": "/monstafriends/index.html",
+    "precache-manifest.0efb8ea60a65296e8baba276532eda1b.js": "/monstafriends/precache-manifest.0efb8ea60a65296e8baba276532eda1b.js",
+    "service-worker.js": "/monstafriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/monstafriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d118e313.chunk.css.map": "/monstafriends/static/css/main.d118e313.chunk.css.map",
+    "static/js/2.209d094b.chunk.js.LICENSE.txt": "/monstafriends/static/js/2.209d094b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/monstafriends/static/media/MR.MONSTAR.6c2ae7dc.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be5fe38b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.209d094b.chunk.js",
+    "static/css/main.d118e313.chunk.css",
+    "static/js/main.0c589674.chunk.js"
+  ]
+}
