@@ -2,7 +2,7 @@
 
 MonstaFriends is a React app that lets you search between different API generated robots by name. It's fully responsive and functional in different screen sizes.
 
-
+![RoboFriends Capture](https://i.imgur.com/CTArwyC.jpg)
 
 
 ## Technologies Used
@@ -10,7 +10,7 @@ MonstaFriends is a React app that lets you search between different API generate
 ### Front-End
 - HTML5
 - CSS3
- - React.js
+- React.js
 
 ### React Packages
 - Create React App
